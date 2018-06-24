@@ -1,5 +1,3 @@
-License for included libraries.
-
 MIT License
 
 Copyright (c) 2016 Anywhere Software Ltd.
